@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>My Portfolio</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="assets/style.css">
 </head>
 <body>
 
@@ -17,22 +17,29 @@
     </header>
 
     <section id="about">
-        <img src="/assets/" alt="Profile Picture" />
         <h2>Joseph Monticelli</h2>
-        <p>WELCOME TO MY PORTFOLIOOOOOOO</p>
+        <p>I'm a 33 year old technical professional in South Florida. I have experience as an IT technician, photographer, videographer, web designer, animator, and project manager. To be perfectly honest though, I'm just a professional geek.</p>
+        <img src="assets/me.jpg" alt="Joseph selfie" />
     </section>
 
     <section id="work">
+        <h2>Work</h2>
         <div class="work-item" onclick="window.location='https://github.com/jdmonticelli/challenge2';">
-            <img src="/assets/sample.png" alt="Work 1" />
+            <img src="assets/rpsbot.png" alt="Rock, Paper, Scissors bot" />
+        </div>
+        <div class="work-item" onclick="window.location='https://github.com/jdmonticelli/challenge2';">
+            <img src="assets/proj2.png" alt="Undecided Project" />
         </div>
     </section>
 
     <section id="contact">
         <h2>Contact</h2>
-        <!-- Contact form or information goes here -->
+        <p>
+            <button id="emailButton">Email</button>
+            <a href="https://github.com/jdmonticelli" target="_blank">GitHub</a>
+        </p>      
     </section>
-
+    
     <script src="script.js"></script>
 </body>
 </html>
