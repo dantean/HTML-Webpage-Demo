@@ -13,6 +13,11 @@ Download the repository and open index.html in a web browser.
 Local screenshots: `./assets/screenshots`
 Online screenshots: ` `
 
+## Deployed links
+
+Github: ` `
+Deployed webpage: ` `
+
 ## Credits
 
 - Thanks to insturctor Phil Loy for teaching my coding bootcamp at UM. He's an excellent instructor, mentor, and all around friendly and cool dude.
@@ -24,7 +29,7 @@ MIT License - The License file is provided here : (./LICENSE)
 
 # Copyright 
 
-Copyright (c) 2023 Joseph Monticelli
+Copyright (c) 2024 Joseph Monticelli
 
 ## Future Developments
 
@@ -32,8 +37,4 @@ Copyright (c) 2023 Joseph Monticelli
 
 - first image of work is not larger than the other 
 - app is not responsive to smaller screens 
-- incorrect folder structure 
 - no comments on code 
-- repo name not unique 
-- readme missing link to deployed app and screenshot 
-- commit messages not descriptive 
