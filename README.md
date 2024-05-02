@@ -1,48 +1,39 @@
-# Bootcamp Challenge 2
+# Web Development Portfolio
 
-## Portfolio Site
+## Description
 
-## Version 0.1
+A personal portfolio site. It was the first website I've written without the use of a CMS in over a decade. It started out as a bare bones submission to complete an assignment, but I've come back to it to polish it up and update it.
 
-Time to build a portfolio website from scratch. The version I have submitted is bare-bones and has some broken code that I will have to come back and fix later. 
-
-Plans for future additions/changes:
-
-- fix background
-- expand and complete the Work section with links to my work in various different fields
-- make it ~pretty~
-- fix javascript
-- other stuff??????????????????????????
-
-
-## Installation
+## How to use
 
 Download the repository and open index.html in a web browser.
 
+## Screenshots
+
+Local screenshots: `./assets/screenshots`
+Online screenshots: ` `
+
 ## Credits
 
-Created me, Joseph Monticelli :)
+- Thanks to insturctor Phil Loy for teaching my coding bootcamp at UM. He's an excellent instructor, mentor, and all around friendly and cool dude.
+
 
 ## License
 
-MIT License
+MIT License - The License file is provided here : (./LICENSE)
+
+# Copyright 
 
 Copyright (c) 2023 Joseph Monticelli
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Future Developments
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### Feedback to work on
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- first image of work is not larger than the other 
+- app is not responsive to smaller screens 
+- incorrect folder structure 
+- no comments on code 
+- repo name not unique 
+- readme missing link to deployed app and screenshot 
+- commit messages not descriptive 
