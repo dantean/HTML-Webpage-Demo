@@ -10,8 +10,6 @@ Download the repository and open index.html in a web browser.
 
 ## Screenshots
 
-Local screenshots: `./assets/screenshots`
-Online screenshots: ` `
 
 ## Deployed links
 
@@ -30,11 +28,3 @@ MIT License - The License file is provided here : (./LICENSE)
 # Copyright 
 
 Copyright (c) 2024 Joseph Monticelli
-
-## Future Developments
-
-### Feedback to work on
-
-- first image of work is not larger than the other 
-- app is not responsive to smaller screens 
-- no comments on code 
